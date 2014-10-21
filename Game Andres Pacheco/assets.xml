@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.4">
+  <sounds />
+  <images>
+    <image name="Capture">
+      <file name="Capture.PNG" size="61226" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
