@@ -10,6 +10,15 @@
     <actor id="id613093" />
     <actor id="id272941" />
     <actor id="id795266" />
+    <actor id="id732816" />
+    <actor id="id580528" />
+    <actor id="id681254" />
+    <actor id="id820425" />
+    <actor id="id134261" />
+    <actor id="id125488" />
+    <actor id="id751623" />
+    <actor id="id265425" />
+    <actor id="id332527" />
   </prototypes>
   <plugins />
   <scenes>
@@ -26,5 +35,6 @@
       <real id="height">320</real>
     </size>
     <text id="actorTags" />
+    <integer id="id900750" name="New Tube">0</integer>
   </attributes>
 </game>
