@@ -32,6 +32,9 @@
     <image name="images">
       <file name="images.png" size="19514" />
     </image>
+    <image name="hjo">
+      <file name="hjo.PNG" size="55085" />
+    </image>
   </images>
   <behaviors />
 </assets>
