@@ -90,7 +90,7 @@
                 <text id="prototypeKey">id732816</text>
                 <angle id="direction">180</angle>
                 <index id="directionSpace">0</index>
-                <real id="x" />
+                <real id="x">0.0</real>
                 <real id="y">
                   <expression>
                     <reference keypath="self.attributes.position.y" />
