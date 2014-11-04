@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <assets PGFVersion="0.19" GSCVersion="0.10.4">
-  <sounds />
+  <sounds>
+    <sound name="Calvin_Harris_feat">
+      <file name="Calvin_Harris_feat.ogg" size="3163927" />
+    </sound>
+  </sounds>
   <images>
     <image name="Capture">
       <file name="Capture.PNG" size="61226" />

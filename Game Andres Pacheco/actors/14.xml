@@ -60,6 +60,19 @@
         </behavior>
       </behaviors>
     </behavior>
+    <behavior id="id393990" class="PlaySoundAction" enabled="true">
+      <attributes>
+        <text id="name">Play Sound</text>
+        <text id="bundleName">PlaySound.behavior</text>
+        <sound id="soundName">Calvin_Harris_feat</sound>
+        <boolean id="loop">true</boolean>
+        <boolean id="runToCompletion">true</boolean>
+        <boolean id="positional">false</boolean>
+        <boolean id="dopplerShift">false</boolean>
+        <real id="volume">50</real>
+        <real id="pitch">1</real>
+      </attributes>
+    </behavior>
   </behaviors>
   <aspects>
     <graphics>
