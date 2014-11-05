@@ -88,14 +88,10 @@
                 <text id="name">Spawn Actor</text>
                 <text id="bundleName">Spawn.behavior</text>
                 <text id="prototypeKey">id732816</text>
-                <angle id="direction">180</angle>
+                <angle id="direction">0</angle>
                 <index id="directionSpace">0</index>
                 <real id="x">0</real>
-                <real id="y">
-                  <expression>
-                    <reference keypath="self.attributes.position.y" />
-                  </expression>
-                </real>
+                <real id="y">-200</real>
                 <index id="positionSpace">0</index>
                 <index id="layerOrder">0</index>
               </attributes>
@@ -137,6 +133,19 @@
                     <index id="layerOrder">0</index>
                   </attributes>
                 </behavior>
+                <behavior id="id637076" class="SpawnAction" enabled="true">
+                  <attributes>
+                    <text id="name">Spawn Actor</text>
+                    <text id="bundleName">Spawn.behavior</text>
+                    <text id="prototypeKey">id820425</text>
+                    <angle id="direction">0</angle>
+                    <index id="directionSpace">0</index>
+                    <real id="x">0</real>
+                    <real id="y">-200</real>
+                    <index id="positionSpace">0</index>
+                    <index id="layerOrder">0</index>
+                  </attributes>
+                </behavior>
               </behaviors>
               <elseBehaviors>
                 <behavior id="id240142" class="RuleBehavior" enabled="true">
@@ -170,6 +179,19 @@
                         <index id="directionSpace">0</index>
                         <real id="x">0</real>
                         <real id="y">0</real>
+                        <index id="positionSpace">0</index>
+                        <index id="layerOrder">0</index>
+                      </attributes>
+                    </behavior>
+                    <behavior id="id819728" class="SpawnAction" enabled="true">
+                      <attributes>
+                        <text id="name">Spawn Actor</text>
+                        <text id="bundleName">Spawn.behavior</text>
+                        <text id="prototypeKey">id125488</text>
+                        <angle id="direction">0</angle>
+                        <index id="directionSpace">0</index>
+                        <real id="x">0</real>
+                        <real id="y">-200</real>
                         <index id="positionSpace">0</index>
                         <index id="layerOrder">0</index>
                       </attributes>
