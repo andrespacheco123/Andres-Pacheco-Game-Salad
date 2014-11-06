@@ -25,6 +25,12 @@
     <actor id="id437616" />
     <actor id="id489458" />
     <actor id="id642364" />
+    <actor id="id457832" />
+    <actor id="id764944" />
+    <actor id="id227026" />
+    <actor id="id752190" />
+    <actor id="id420078" />
+    <actor id="id706260" />
   </prototypes>
   <plugins />
   <scenes>
@@ -32,6 +38,7 @@
     <scene id="id379280" />
     <scene id="id453484" />
     <scene id="id241751" />
+    <scene id="id205260" />
   </scenes>
   <attributes>
     <text id="name">default name</text>
