@@ -243,7 +243,7 @@
         <actor id="id223138" prototype="id218811">
           <attributes>
             <point id="position">
-              <real id="x">468</real>
+              <real id="x">467</real>
               <real id="y">239</real>
             </point>
             <size id="size">
@@ -251,6 +251,12 @@
               <real id="height">164</real>
             </size>
             <angle id="rotation">0</angle>
+            <color id="color">
+              <real id="red">1</real>
+              <real id="green">1</real>
+              <real id="blue">1</real>
+              <real id="alpha">0</real>
+            </color>
           </attributes>
           <aspects>
             <graphics>
