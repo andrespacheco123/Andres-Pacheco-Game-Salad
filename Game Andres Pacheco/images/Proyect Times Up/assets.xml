@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.19" GSCVersion="0.10.4">
+  <sounds />
+  <images>
+    <image name="descarga">
+      <file name="descarga.png" size="122207" />
+    </image>
+    <image name="asfhsf">
+      <file name="asfhsf.PNG" size="68175" />
+    </image>
+  </images>
+  <behaviors />
+</assets>
